@@ -1,0 +1,20 @@
+.groupCard{
+    border: 1px solid black; 
+    width: 150px; 
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none !important;
+}
+.globalCard{
+margin-top: 30px; 
+  display: flex; 
+  justify-content: center;
+  gap: 20px; 
+  text-decoration: none !important;
+}
+
+.groupText{
+    text-decoration: none !important;
+    font-size: 20px;
+
+}
